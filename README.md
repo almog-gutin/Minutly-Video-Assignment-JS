@@ -47,7 +47,7 @@ In this repo there are two JavaScript files that are snippets to be run inside t
 **Git clone**
 
 ```
-git clone https://github.com/almog-gutin/Minutly-Video-Assignment-JS.git
+git clone https://github.com/almoggutin/Minutly-Video-Assignment-JS.git
 ```
 
 **Instructions**
